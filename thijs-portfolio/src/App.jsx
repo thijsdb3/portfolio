@@ -1,17 +1,17 @@
-import Header from './components/header';
-import Icon from './components/icon';
-import ProjectVisual from './components/projectvisual';
+import Header from './components/Header';
+import Icon from './components/Icon';
+import ProjectVisual from './components/Projectvisual';
 
 import projects from './data/project';
 import skillGroups from './data/skills';
 
-import Hero from './sections/hero';
-import About from './sections/about';
-import Projects from './sections/projects';
-import Skills from './sections/skills';
-import Experience from './sections/experience';
-import Extras from './sections/extras';
-import Contact from './sections/contact';
+import Hero from './sections/Hero';
+import About from './sections/About';
+import Projects from './sections/Projects';
+import Skills from './sections/Skills';
+import Experience from './sections/Experience';
+import Extras from './sections/Extras';
+import Contact from './sections/Contact';
 
 function App() {
   return (

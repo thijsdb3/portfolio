@@ -3,7 +3,7 @@ export default function Skills({ skillGroups }) {
     <section className="section-wrap section-block skills-section" id="skills">
       <div className="section-heading">
         <span className="section-kicker">03 / TOOLKIT</span>
-        <h2>Tools I use to<br /><em>make things happen.</em></h2>
+        <h2>Skills built<br /><em>Through Practice</em></h2>
       </div>
 
       <div className="skills-grid">

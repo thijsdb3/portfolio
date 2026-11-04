@@ -71,7 +71,7 @@ const projects = [
       'Data Validation',
     ],
     visual: 'matching',
-    link: null,
+    link: 'https://github.com/thijsdb3/master_thesis',
     linkLabel: 'Master thesis project',
   },
   {
@@ -79,8 +79,8 @@ const projects = [
     type: 'FULL-STACK DEVELOPMENT · MULTIPLAYER GAME',
     year: '2025',
     title: 'The Judge — Social Deduction Game',
-    intro: 'An operational minimum viable product for an original real-time social deduction game, designed for groups of 6–13 players.',
-    description: 'Designed and developed a working multiplayer web application for The Judge, an original social deduction board game. Unlike traditional games such as Werewolves or Avalon, one player is always known to be on the Honest team and must identify which other players are secretly Corrupt. The application supports the complete gameplay experience, including role assignment, player selections, card exchanges, and real-time synchronization. It has been successfully playtested online, but currently requires players to organize their own group rather than offering public matchmaking.',
+    intro: 'An operational minimum viable product for a real-time social deduction game, designed for groups of 6–13 players.',
+    description: 'Designed and developed a working multiplayer web application for The Judge, a not yet published social deduction board game. Unlike traditional games such as Werewolves or Avalon, one player is always known to be on the Honest team and must identify which other players are secretly Corrupt. The application supports the complete gameplay experience, including role assignment, player selections, card exchanges, and real-time synchronization. It has been successfully playtested online, but currently requires players to organize their own group rather than offering public matchmaking.',
     bullets: [
       'Built user authentication, game creation, live lobbies, and player lists.',
       'Implemented the core gameplay mechanics, including role assignment, multi-stage player selections, and card exchanges.',

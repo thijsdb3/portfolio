@@ -3,7 +3,7 @@ export default function Extras() {
     <section className="section-wrap extras-grid">
       <div className="extra-panel">
         <span className="section-kicker">05 / CERTIFICATIONS</span>
-        <h2>Learning that<br /><em>keeps moving.</em></h2>
+        <h2>Continuous<br /><em>learning.</em></h2>
 
         <div className="credential">
           <span>2026</span>
@@ -23,7 +23,7 @@ export default function Extras() {
       </div>
 
       <div className="extra-panel extra-panel-alt">
-        <span className="section-kicker">06 / BEYOND THE CODE</span>
+        <span className="section-kicker">06 / ACHIEVEMENTS</span>
         <h2>Milestones<br /><em>along the way.</em></h2>
 
         <div className="achievement">

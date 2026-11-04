@@ -5,7 +5,7 @@ export default function Experience() {
       <div className="section-wrap section-block">
         <div className="section-heading">
           <span className="section-kicker">04 / BACKGROUND</span>
-          <h2>Where I've<br /><em>learned and grown.</em></h2>
+          <h2>Education and <br /><em>experience.</em></h2>
         </div>
 
         <div className="timeline">
