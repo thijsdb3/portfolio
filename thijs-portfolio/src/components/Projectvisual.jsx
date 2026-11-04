@@ -66,10 +66,10 @@ export default function ProjectVisual({ type }) {
         </div>
         <div className="game-title">THE JUDGE</div>
         <div className="game-cards">
-          <span>♜</span>
-          <span>♞</span>
-          <span>♝</span>
-          <span>♛</span>
+          <span>🧑</span>
+          <span>👩</span>
+          <span>👩🏾</span>
+          <span>🧑🏾</span>
         </div>
         <div className="game-status">
           MULTIPLAYER SESSION <b>● LIVE</b>

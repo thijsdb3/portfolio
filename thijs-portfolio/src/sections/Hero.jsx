@@ -25,10 +25,17 @@ export default function Hero({ Icon }) {
           </a>
         </div>
 
-        <div className="hero-meta">
-          <span><Icon name="pin" /> Los Angeles, California</span>
-          <span>KU Leuven · Class of 2025</span>
-        </div>
+<div className="hero-meta">
+  <span><Icon name="pin" /> Los Angeles, California</span>
+  <span className="hero-education">
+    <span className="education-icon">✦</span>
+    <span className="education-text">
+      <strong>KU Leuven</strong>
+      <small>Leading European research university</small>
+    </span>
+  </span>
+</div>
+
       </div>
 
       <div className="hero-art" aria-label="Abstract data visualization illustration">
